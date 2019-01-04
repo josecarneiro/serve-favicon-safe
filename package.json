@@ -1,0 +1,19 @@
+{
+  "name": "serve-favicon-safe",
+  "version": "0.1.0",
+  "description": "A safer alternative to serve-favicon",
+  "license": "MIT",
+  "author": {
+    "name": "José Carneiro",
+    "email": "contact@josecarnei.ro",
+    "url": "https://josecarnei.ro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josecarneiro/serve-favicon-safe.git"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "serve-favicon": "^2.5.0"
+  }
+}
